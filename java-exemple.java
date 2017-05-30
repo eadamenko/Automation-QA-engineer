@@ -1,5 +1,5 @@
-#### Test  
-@Test (description = "DPWEB-32945", dataProvider = "FAVORITES_CART_VISIBLE")
+// Test  
+@Test (description = "ticketname1", dataProvider = "FAVORITES_CART_VISIBLE")
 	public void cartButtonOnFavorites(String login, String password, boolean isPresent) {
 	  	app.getUserHelper().directLogin(new User(login, password));
 		app.getNavigationHelper().openFavorites();
@@ -10,21 +10,21 @@
 		Assert.assertEquals(app.getFavoritesHelper().isAddToCartButtonPresent(), isPresent);
 	  }
     
-#### DataProvider      
+// DataProvider      
 @DataProvider(name = "FAVORITES_CART_VISIBLE") //login, password, visibility of element
 	public Object[][] favoritesCartVisible() {
 		return new Object[][]{
-				{"testUserDPWEB-32945", "123456", true},
-				{"testUserDPWEB-32945_Enterprise", "123456", false}
+				{"testUserTicketname1", "123456", true},
+				{"testUserTicketname1_Enterprise", "123456", false}
 		};
 	}
   
-#### FavoritesHelper  
+// FavoritesHelper  
 void changeFavoritesView(boolean isTableView);
 boolean isAddToCartButtonPresent();
 
 
-#### FavoritesHelperDriver   
+// FavoritesHelperDriver   
 @Override
 	public void changeFavoritesView(boolean isTableView) {
 		logMe(isTableView);
@@ -38,7 +38,7 @@ boolean isAddToCartButtonPresent();
 	}  
   
   
-#### FavoritesPage  
+// FavoritesPage  
 @FindBy(xpath = "//i[contains(@class, 'change-view-grid')]")
 	private WebElement changeViewButton; 
   
