@@ -12,7 +12,7 @@ Location: Kyiv, Ukraine
 * Experience with JavaScript+WebdriverIO, and REST API testing using PHP+Codeception;
 * Manual software and web testing;
 * Knowledge of QA methodologies and SDLC/BLC;
-* Knowledge in: SQL, HTML, CSS;
+* Knowledge in: `SQL`, `HTML`, `CSS`;
 * Worked with:
   * CI: Jenkins; 
   * BTS: Jira; 
