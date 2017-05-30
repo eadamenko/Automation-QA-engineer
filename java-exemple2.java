@@ -1,7 +1,7 @@
-#### Test  
-@Test( dataProvider = "EMPTY_SEARCH_URLS", description = "DPWEB-30557")
+// Test  
+@Test( dataProvider = "EMPTY_SEARCH_URLS", description = "ticketname2")
 	public void emptySearchNotClickableNewOldSite (String url) {
-		User user = new User("testUserDPWEB-30557", "123456");
+		User user = new User("testUserticketname2", "123456");
 		for (int i = 0; i < 2; i++) {
 			if (i > 0) {
 				app.getUserHelper().directLogin(user, url);
@@ -13,7 +13,7 @@
 		}
 	}
 
-#### DataProvider  
+// DataProvider  
 @DataProvider(name = "EMPTY_SEARCH_URLS")
 	public Object[][] emptySearchUrls() {
 		return new Object[][]{
@@ -24,17 +24,17 @@
 	}  
   
   
-#### SearchHelper   
+// SearchHelper   
 void clickSearchButton(); 
  
-#### SearchHelperDriver
+// SearchHelperDriver
 @Override
 	public void clickSearchButton() {
 		logMe();
 		pages2.searchPage.clickSearchButton();
 	} 
   
-#### SearchPage
+// SearchPage
 @FindBy(xpath = "//button[contains(@class,'search-bar__button-submit')]")
 	private WebElement searchButton; 
 
