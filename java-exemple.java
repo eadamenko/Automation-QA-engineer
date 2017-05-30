@@ -1,4 +1,4 @@
-#### Test  
+// Test  
 @Test (description = "ticketname1", dataProvider = "FAVORITES_CART_VISIBLE")
 	public void cartButtonOnFavorites(String login, String password, boolean isPresent) {
 	  	app.getUserHelper().directLogin(new User(login, password));
@@ -10,7 +10,7 @@
 		Assert.assertEquals(app.getFavoritesHelper().isAddToCartButtonPresent(), isPresent);
 	  }
     
-#### DataProvider      
+// DataProvider      
 @DataProvider(name = "FAVORITES_CART_VISIBLE") //login, password, visibility of element
 	public Object[][] favoritesCartVisible() {
 		return new Object[][]{
@@ -19,12 +19,12 @@
 		};
 	}
   
-#### FavoritesHelper  
+// FavoritesHelper  
 void changeFavoritesView(boolean isTableView);
 boolean isAddToCartButtonPresent();
 
 
-#### FavoritesHelperDriver   
+// FavoritesHelperDriver   
 @Override
 	public void changeFavoritesView(boolean isTableView) {
 		logMe(isTableView);
@@ -38,7 +38,7 @@ boolean isAddToCartButtonPresent();
 	}  
   
   
-#### FavoritesPage  
+// FavoritesPage  
 @FindBy(xpath = "//i[contains(@class, 'change-view-grid')]")
 	private WebElement changeViewButton; 
   
