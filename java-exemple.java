@@ -1,5 +1,5 @@
 #### Test  
-@Test (description = "DPWEB-32945", dataProvider = "FAVORITES_CART_VISIBLE")
+@Test (description = "ticketname1", dataProvider = "FAVORITES_CART_VISIBLE")
 	public void cartButtonOnFavorites(String login, String password, boolean isPresent) {
 	  	app.getUserHelper().directLogin(new User(login, password));
 		app.getNavigationHelper().openFavorites();
@@ -14,8 +14,8 @@
 @DataProvider(name = "FAVORITES_CART_VISIBLE") //login, password, visibility of element
 	public Object[][] favoritesCartVisible() {
 		return new Object[][]{
-				{"testUserDPWEB-32945", "123456", true},
-				{"testUserDPWEB-32945_Enterprise", "123456", false}
+				{"testUserTicketname1", "123456", true},
+				{"testUserTicketname1_Enterprise", "123456", false}
 		};
 	}
   
