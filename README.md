@@ -8,7 +8,7 @@ Location: Kyiv, Ukraine
 
 ## Summary
 ### Professional skills: 
-* In-depth knowledge of automation testing with Java+Selenium WebDriver;
+* In-depth knowledge of automation testing with Java+Selenium WebDriver; [Exemple1](https://github.com/eadamenko/Automation-QA-engineer/blob/00ec68e6264fc6896db1898dda6a1a62ab4b1844/Java%20exemple) [Exemple2](https://github.com/eadamenko/Automation-QA-engineer/blob/00ec68e6264fc6896db1898dda6a1a62ab4b1844/Java%20exemple2)
 * Experience with JavaScript+WebdriverIO, and REST API testing using PHP+Codeception;
 * Manual software and web testing;
 * Knowledge of QA methodologies and SDLC/BLC;
