@@ -8,8 +8,10 @@ Location: Kyiv, Ukraine
 
 ## Summary
 ### Professional skills: 
-* In-depth knowledge of automation testing with Java+Selenium WebDriver; [Exemple1](https://github.com/eadamenko/Automation-QA-engineer/blob/QAAR-3/java-exemple.java) [Exemple2](https://github.com/eadamenko/Automation-QA-engineer/blob/QAAR-3/java-exemple2.java)
-* Experience with JavaScript+WebdriverIO, and REST API testing using PHP+Codeception;
+* In-depth knowledge of UI automation testing with Java+Selenium WebDriver; [Exemple1](https://github.com/eadamenko/Automation-QA-engineer/blob/QAAR-3/java-exemple.java) [Exemple2](https://github.com/eadamenko/Automation-QA-engineer/blob/QAAR-3/java-exemple2.java)
+* In-depth knowledge of UI automation testing with JavaScript+Protractor and WebdriverIO, and REST API testing using PHP+Codeception;
+* In-depth knowledge of API automation testing with JavaScript+Mocha/Chai
+* In-depth knowledge of APIDoc automation testing with JavaScript+Dredd
 * Manual software and web testing;
 * Knowledge of QA methodologies and SDLC/BLC;
 * Knowledge in: `SQL`, `HTML`, `CSS`;
@@ -21,7 +23,17 @@ Location: Kyiv, Ukraine
 * Worked as a member of the Agile SCRUM team, providing high quality software for two weeks of sprints;
 
 ## Experience
-### QA Automation Engineer (2015 - till now)  
+### QA Automation Engineer (2017 - till now)  
+[**Intellectsoft**](https://www.intellectsoft.net/)
+  * Setting up a test environment for a project from scratch
+  * Improvement, refactoring, and increase test coverage of existed test coverage;
+  * Functional, regression, exploratory manual testing;
+  * Cross-browser compatibility testing;
+  * Mobile testing
+  * Work with the test documentation;
+  * Presentation of product demo version for the customer
+
+### QA Automation Engineer (2015 - 2017)  
 [**Depositphotos**](https://depositphotos.com/)
   * Improvement, refactoring, and increase test coverage of existed test coverage;
   * Functional, regression, exploratory manual testing;
