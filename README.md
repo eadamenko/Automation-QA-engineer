@@ -26,7 +26,7 @@ Location: Kyiv, Ukraine
 ## Experience
 ### QA Automation Engineer (2017 - till now)  
 [**Intellectsoft**](https://www.intellectsoft.net/)
-  * Setting up a test environment for a project from scratch
+  * Setting up a test environment for a project from scratch (JavaScript);
   * Improvement, refactoring, and increase test coverage of existed test coverage;
   * Functional, regression, exploratory manual testing;
   * Cross-browser compatibility testing;
@@ -36,7 +36,7 @@ Location: Kyiv, Ukraine
 
 ### QA Automation Engineer (2015 - 2017)  
 [**Depositphotos**](https://depositphotos.com/)
-  * Improvement, refactoring, and increase test coverage of existed test coverage;
+  * Improvement, refactoring, and increase test coverage of existed test coverage (Java);
   * Functional, regression, exploratory manual testing;
   * Cross-browser compatibility testing;
   * Work with the test documentation;
