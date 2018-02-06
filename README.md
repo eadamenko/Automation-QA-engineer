@@ -25,7 +25,7 @@ Location: Kyiv, Ukraine
 
 ## Experience
 ### QA Automation Engineer (2017 - till now)  
-[**Intellectsoft**](https://www.intellectsoft.net/)
+[**Intellectsoft**](https://www.intellectsoft.net/) (cryptocurrency market / e-commerce / blockchain)
   * Setting up a test environment for a project from scratch (JavaScript);
   * Improvement, refactoring, and increase test coverage of existed test coverage;
   * Functional, regression, exploratory manual testing;
@@ -35,7 +35,7 @@ Location: Kyiv, Ukraine
   * Presentation of product demo version for the customer
 
 ### QA Automation Engineer (2015 - 2017)  
-[**Depositphotos**](https://depositphotos.com/)
+[**Depositphotos**](https://depositphotos.com/) (photobank with e-commerce)
   * Improvement, refactoring, and increase test coverage of existed test coverage (Java);
   * Functional, regression, exploratory manual testing;
   * Cross-browser compatibility testing;
