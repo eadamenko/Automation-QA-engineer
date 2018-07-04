@@ -23,7 +23,7 @@ Location: Kyiv, Ukraine
 * Worked as a member of the Agile SCRUM team, providing high quality software for two weeks of sprints;
 
 ## Experience
-### QA Automation Engineer (2017 - till now)  
+### QA Automation Engineer (2017.08 - till now)  
 [**Intellectsoft**](https://www.intellectsoft.net/) (cryptocurrency market / e-commerce / blockchain)
   * Setting up a test environment for a project from scratch (JavaScript);
   * Improvement, refactoring, and increase test coverage of existed test coverage;
@@ -33,7 +33,7 @@ Location: Kyiv, Ukraine
   * Work with the test documentation;
   * Presentation of product demo version for the customer
 
-### QA Automation Engineer (2015 - 2017)  
+### QA Automation Engineer (2015.05 - 2017.08)  
 [**Depositphotos**](https://depositphotos.com/) (photobank with e-commerce)
   * Improvement, refactoring, and increase test coverage of existed test coverage (Java);
   * Functional, regression, exploratory manual testing;
