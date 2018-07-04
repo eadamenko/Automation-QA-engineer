@@ -1,6 +1,6 @@
 # Automation-QA-engineer
 ### Adamenko Eugene <Image src="photo1.jpg" align="right" width="200" height="200">
-Date of birth: 04.08.1988 (28y.o.)  
+Date of birth: 04.08.1988 (29y.o.)  
 Contacts: tel. +38(097)10-10-575  
 E-mail: adamenko.ev@gmail.com  
 Skype: mentosman111  
@@ -11,7 +11,6 @@ Location: Kyiv, Ukraine
 * In-depth knowledge of UI automation testing with Java+Selenium WebDriver; [Exemple1](https://github.com/eadamenko/Automation-QA-engineer/blob/QAAR-3/java-exemple.java) [Exemple2](https://github.com/eadamenko/Automation-QA-engineer/blob/QAAR-3/java-exemple2.java)
 * In-depth knowledge of UI automation testing with JavaScript+Protractor and WebdriverIO, 
 * In-depth knowledge of API automation testing with JavaScript+Mocha/Chai
-* In-depth knowledge of APIDoc automation testing with JavaScript+Dredd
 * Expirience of API testing using PHP+Codeception;
 * Manual software and web testing;
 * Knowledge of QA methodologies and SDLC/BLC;
@@ -41,15 +40,6 @@ Location: Kyiv, Ukraine
   * Cross-browser compatibility testing;
   * Work with the test documentation;
 
-### Producing editor of «Night teleekspress» (2014-2015)
-[**Espresso TV**](http://espreso.tv/)
-
-### Producing editor of «Television News Service» (2013 –2014)
-[**1+1 media**](https://tsn.ua/)
-
-### Journalist of «Television News Service» (2011-2014)
-[**1+1 media**](https://tsn.ua/)
-
 ## Education
 **Open International University «Ukraine» (Kyiv, End Date 2008)**  
 * Faculty of Journalistics Publishing and Editing, specialist.
@@ -60,5 +50,5 @@ Location: Kyiv, Ukraine
 **Russian** - native;  
 
 ## Additional info
-**Hobbies:** active sport, military-reconstruction games, tourism, buggy construction;  
+**Hobbies:** wakeboarding, snowboarding, pitbike racing, military-reconstruction games, buggy construction;  
 **Personal Qualities:** initiative, team-player, ability to work under pressure, willing to learn and grow, analytic mind, responsible, leadership skills, communicative;
