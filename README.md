@@ -1,33 +1,30 @@
 # Automation-QA-engineer
 ### Adamenko Eugene <Image src="photo1.jpg" align="right" width="200" height="200">
-Date of birth: 04.08.1988 (29y.o.)  
+Date of birth: 04.08.1988 (30y.o.)  
 Contacts: tel. +38(097)10-10-575  
 E-mail: adamenko.ev@gmail.com  
-Skype: mentosman111  
 Location: Kyiv, Ukraine  
 
 ## Summary
 ### Professional skills: 
-* In-depth knowledge of UI automation testing with Java+Selenium WebDriver; [Example1](https://github.com/eadamenko/Automation-QA-engineer/blob/QAAR-3/java-exemple.java) [Example2](https://github.com/eadamenko/Automation-QA-engineer/blob/QAAR-3/java-exemple2.java)
-* In-depth knowledge of UI automation testing with JavaScript+Protractor and WebdriverIO, 
-* In-depth knowledge of API automation testing with JavaScript+Mocha/Chai
-* Expirience of API testing using PHP+Codeception;
-* Manual software and web testing;
-* Knowledge of QA methodologies and SDLC/BLC;
+* Java - 3+ years of Web UI, Mobile UI and REST API automation testing (Selenium, Appium, TestNG, REST Assured);
+* JavaScript - 6 month of Web UI and REST API automation testing (Potractor, Mocha);
+
+* Manual testing of mobile and web applications;
 * Knowledge in: `SQL`, `HTML`, `CSS`;
 * Worked with:
   * CI: Jenkins; 
   * BTS: Jira; 
   * VCS: Git;
 * Creating technical and test documentation: project wiki, tasks based on user stories, test cases, test plans, check lists, bug reports, traceability matrices;
-* Worked as a member of the Agile SCRUM team, providing high quality software for two weeks of sprints;
+* Worked as a member of the Agile SCRUM team;
 
 ## Experience
 ### QA Automation Engineer (08.2017 - till now)  
-[**Intellectsoft**](https://www.intellectsoft.net/) (cryptocurrency market / e-commerce / blockchain)
-  * Setting up a test environment for a project from scratch (JavaScript);
+[**Intellectsoft**](https://www.intellectsoft.net/) (cryptocurrency market / blockchain / e-commerce / mobile commerce)
+  * Setting up a test automation project for a web / mobile application from scratch;
   * Improvement, refactoring, and increase test coverage of existed test coverage;
-  * Functional, regression, exploratory manual testing;
+  * Functional, non-functional, smoke, regression, exploratory manual testing;
   * Cross-browser compatibility testing;
   * Mobile testing
   * Work with the test documentation;
@@ -35,7 +32,7 @@ Location: Kyiv, Ukraine
 
 ### QA Automation Engineer (05.2015 - 08.2017)  
 [**Depositphotos**](https://depositphotos.com/) (photobank with e-commerce)
-  * Improvement, refactoring, and increase test coverage of existed test coverage (Java);
+  * Improvement, refactoring, and increase test coverage of existed test coverage;
   * Functional, regression, exploratory manual testing;
   * Cross-browser compatibility testing;
   * Work with the test documentation;
@@ -50,5 +47,5 @@ Location: Kyiv, Ukraine
 **Russian** - native;  
 
 ## Additional info
-**Hobbies:** wakeboarding, snowboarding, pitbike racing, military-reconstruction games, buggy construction;  
+**Hobbies:** snowboarding, wakeboarding, buggy construction, pitbike racing, practical shooting;  
 **Personal Qualities:** initiative, team-player, ability to work under pressure, willing to learn and grow, analytic mind, responsible, leadership skills, communicative;
