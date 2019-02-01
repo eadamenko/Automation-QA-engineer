@@ -8,8 +8,7 @@ Location: Kyiv, Ukraine
 ## Summary
 ### Professional skills: 
 * Java - 3+ years of Web UI, Mobile UI and REST API automation testing (Selenium, Appium, TestNG, REST Assured);
-* JavaScript - 6 month of Web UI and REST API automation testing (Potractor, Mocha);
-
+* JavaScript - 6 month of Web UI and REST API automation testing (Protractor, Mocha);
 * Manual testing of mobile and web applications;
 * Knowledge in: `SQL`, `HTML`, `CSS`;
 * Worked with:
