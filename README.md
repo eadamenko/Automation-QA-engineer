@@ -12,7 +12,7 @@ Location: Kyiv, Ukraine
 * Manual testing of mobile and web applications;
 * Knowledge in: `SQL`, `HTML`, `CSS`;
 * Worked with:
-  * CI: Jenkins;  BTS: Jira;  VCS: Git;  Tools: Postman, Charles;
+  * CI: Jenkins, TeamCity;  BTS: Jira;  VCS: Git;  Tools: Postman, Charles;
 * Creating technical and test documentation: project wiki, tasks based on user stories, test cases, test plans, check lists, bug reports, traceability matrices;
 * Worked as a member of the Agile SCRUM team;
 
@@ -20,16 +20,16 @@ Location: Kyiv, Ukraine
 ### QA Automation Engineer (08.2017 - till now)  
 [**Intellectsoft**](https://www.intellectsoft.net/) (cryptocurrency market / blockchain / e-commerce / mobile commerce):
 
-  * Setting up a test automation project for a web / mobile application from scratch;
-  * Improvement, refactoring, and increase of existed test coverage;
+  * Setting up a test automation projects for a web / mobile applications from scratch;(JAVA, JS)
+  * Improvement, refactoring, and increase of existed test coverage for UI and API automation tests;
   * Functional, non-functional, smoke, regression, exploratory manual testing of web and mobile applications;
   * Work with the test documentation;
-  * Presentation of product demo version for the customer;
+  * Presentations of product demo versions for the customer;
 
-### QA Automation Engineer (05.2015 - 08.2017)  
+### QA Manual/Automation Engineer (50/50) (05.2015 - 08.2017)  
 [**Depositphotos**](https://depositphotos.com/) (photobank with e-commerce):
 
-  * Improvement, refactoring, and increase of existed test coverage;
+  * Improvement, refactoring, and increase of existed coverage for UI and API automation tests;(JAVA)
   * Functional, regression, exploratory manual testing of web applications;
   * Work with the test documentation;
 
