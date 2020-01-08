@@ -21,11 +21,13 @@ Location: Kyiv, Ukraine
 [**Intellectsoft**](https://www.intellectsoft.net/) (cryptocurrency market / blockchain / e-commerce / mobile commerce):
 
 **09.2018-01.2020** (e-commerce / mobile commerce project):
+
   * Implementation of test documentation and test automation processes in SDLC
   * Setting up core test automation framework for multiple web and mobile applications from scratch;(JAVA, Appium)
   * Increasing, support, improvement and refactoring of test coverage for UI and API automation tests for smoke and regression suites for web application;
 
 **08.2017-09.2018** (cryptocurrency market / blockchain / e-commerce project):
+
   * Setting up a test automation framework for web applications from scratch;(JAVA, JS)
   * Increasing, support, improvement and refactoring of test coverage for UI and API automation tests for smoke and regression suites for web application;
   * Functional, non-functional, smoke, regression, exploratory manual testing of web and mobile applications;
