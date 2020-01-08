@@ -10,7 +10,7 @@ Location: Kyiv, Ukraine
 * Java - 3+ years of Web UI, Mobile UI and REST API automation testing (Selenium, Appium, TestNG, REST Assured);
 * JavaScript - 6 month of Web UI and REST API automation testing (Protractor, Mocha);
 * Manual testing of mobile and web applications;
-* Knowledge in: `SQL`, `HTML`, `CSS`;
+* Knowledge in: `SQL`, `HTML`;
 * Worked with:
   * CI: Jenkins, TeamCity;  BTS: Jira;  VCS: Git;  Tools: Postman, Charles;
 * Creating technical and test documentation: project wiki, tasks based on user stories, test cases, test plans, check lists, bug reports, traceability matrices;
@@ -20,8 +20,14 @@ Location: Kyiv, Ukraine
 ### QA Automation Engineer (08.2017 - till now)  
 [**Intellectsoft**](https://www.intellectsoft.net/) (cryptocurrency market / blockchain / e-commerce / mobile commerce):
 
-  * Setting up a test automation projects for a web / mobile applications from scratch;(JAVA, JS)
-  * Improvement, refactoring, and increase of existed test coverage for UI and API automation tests;
+**09.2018-01.2020** (e-commerce / mobile commerce project):
+  * Implementation of test documentation and test automation processes in SDLC
+  * Setting up core test automation framework for multiple web and mobile applications from scratch;(JAVA, Appium)
+  * Increasing, support, improvement and refactoring of test coverage for UI and API automation tests for smoke and regression suites for web application;
+
+**08.2017-09.2018** (cryptocurrency market / blockchain / e-commerce project):
+  * Setting up a test automation framework for web applications from scratch;(JAVA, JS)
+  * Increasing, support, improvement and refactoring of test coverage for UI and API automation tests for smoke and regression suites for web application;
   * Functional, non-functional, smoke, regression, exploratory manual testing of web and mobile applications;
   * Work with the test documentation;
   * Presentations of product demo versions for the customer;
