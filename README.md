@@ -7,18 +7,30 @@ Location: Kyiv, Ukraine
 
 ## Summary
 ### Professional skills: 
-* Java - 3+ years of Web UI, Mobile UI and REST API automation testing (Selenium, Appium, TestNG, REST Assured);
-* JavaScript - 6 month of Web UI and REST API automation testing (Protractor, Mocha);
+* Web UI, Mobile UI and REST API automation using: 
+  * Java (Selenium, Selenide, Appium, TestNG, REST Assured);
+  * JavaScript (Protractor, Mocha, Cypress, Jest);
 * Manual testing of mobile and web applications;
-* Knowledge in: `SQL`, `HTML`, `CSS`;
 * Worked with:
   * CI: Jenkins, TeamCity;  BTS: Jira;  VCS: Git;  Tools: Postman, Charles;
 * Creating technical and test documentation: project wiki, tasks based on user stories, test cases, test plans, check lists, bug reports, traceability matrices;
 * Worked as a member of the Agile SCRUM team;
 
-## Experience
-### QA Automation Engineer (08.2017 - till now)  
-[**Intellectsoft**](https://www.intellectsoft.net/) (cryptocurrency market / blockchain / e-commerce / mobile commerce):
+## Experience in chronological order
+### QA Team lead / Release manager (03.2020 - till now)  
+[**Boxmode**](https://boxmode.com) (website builder):
+
+  * Building QA and development processes;
+  * Building release process;
+  * Release management;
+  * Application releases to production;
+  * KPI, efficiency, mentoring and team mood monitoring;
+  * Manual testing;
+  * UI, visual regression and API test automation;
+  * Creating all kinds of QA documentation and manuals;
+
+### QA Automation Engineer (08.2017 - 03.2020)  
+[**Intellectsoft**](https://www.intellectsoft.net/) (cryptocurrency market / blockchain / e-commerce / mobile commerce / booking):
 
   * Setting up a test automation projects for a web / mobile applications from scratch;(JAVA, JS)
   * Improvement, refactoring, and increase of existed test coverage for UI and API automation tests;
@@ -45,4 +57,4 @@ Location: Kyiv, Ukraine
 
 ## Additional info
 **Hobbies:** snowboarding, wakeboarding, buggy construction, pitbike racing, practical shooting;  
-**Personal Qualities:** initiative, team-player, ability to work under pressure, willing to learn and grow, analytic mind, responsible, leadership skills, communicative;
+**Personal Qualities:** initiative, responsible, team-player, ability to work under pressure, analytic, leadership skills, communicative;
