@@ -10,7 +10,8 @@ Location: Kyiv, Ukraine
 * Web UI, Mobile UI and REST API automation using: 
   * Java (Selenium, Selenide, Appium, TestNG, REST Assured);
   * JavaScript (Protractor, Mocha, Cypress, Jest);
-* Manual testing of mobile and web applications;
+* Manual testing of mobile and web applications:
+  * Web UI, mobile UI, API, Docs, analitics, cookies, xss vulnerabilities, dig DNS, debug with DevTools, Charles, ADB and Xcode.
 * Worked with:
   * CI: Jenkins, TeamCity;  BTS: Jira;  VCS: Git;  Tools: Postman, Charles;
 * Creating technical and test documentation: project wiki, tasks based on user stories, test cases, test plans, check lists, bug reports, traceability matrices;
