@@ -1,23 +1,35 @@
 # Automation-QA-engineer
 ### Adamenko Eugene
-Date of birth: 04.08.1988 (31y.o.)  
+Date of birth: 04.08.1988 (33y.o.)  
 Contacts: tel. +38(097)10-10-575  
 E-mail: adamenko.ev@gmail.com  
 Location: Kyiv, Ukraine  
 
 ## Summary
 ### Professional skills: 
-* Java - 3+ years of Web UI, Mobile UI and REST API automation testing (Selenium, Appium, TestNG, REST Assured);
-* JavaScript - 6 month of Web UI and REST API automation testing (Protractor, Mocha);
+* Web UI, Mobile UI and REST API automation using: 
+  * Java (Selenium, Selenide, Appium, TestNG, REST Assured);
+  * JavaScript (Protractor, Mocha, Cypress, Jest);
 * Manual testing of mobile and web applications;
-* Knowledge in: `SQL`, `HTML`;
 * Worked with:
   * CI: Jenkins, TeamCity;  BTS: Jira;  VCS: Git;  Tools: Postman, Charles;
 * Creating technical and test documentation: project wiki, tasks based on user stories, test cases, test plans, check lists, bug reports, traceability matrices;
 * Worked as a member of the Agile SCRUM team;
 
-## Experience
-### QA Automation Engineer (08.2017 - till now)  
+## Experience in chronological order
+### QA Team lead / Release manager (03.2020 - till now)  
+[**Boxmode**](https://boxmode.com) (website builder):
+
+  * Building QA and development processes;
+  * Building release process;
+  * Release management;
+  * Application releases to production;
+  * KPI, efficiency, mentoring and team mood monitoring;
+  * Manual testing;
+  * UI, visual regression and API test automation;
+  * Creating all kinds of QA documentation and manuals;
+
+### QA Automation Engineer (08.2017 - 03.2020)
 [**Intellectsoft**](https://www.intellectsoft.net/) (cryptocurrency market / blockchain / e-commerce / mobile commerce):
 
 **09.2018-01.2020** (e-commerce / mobile commerce project):
