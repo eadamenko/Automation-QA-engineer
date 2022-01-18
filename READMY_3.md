@@ -23,11 +23,11 @@ Hardworking and meticulous with a passion for continuous improvement.
   * Reports: project reports, team reports, statistic reports, analytics reports, financial reports
 
 ### Worked with: 
-BTS: Jira, RedMine
-CI: Jenkins
-VCS: BitBucket
-TMT: TestCaseLab
-DS: Zeplin, Figma
+BTS: Jira, RedMine  
+CI: Jenkins  
+VCS: BitBucket  
+TMT: TestCaseLab  
+DS: Zeplin, Figma  
 Tools: Chrome DevTools, MySQL Workbench
 
 ## Experience
