@@ -53,9 +53,9 @@ Tools: Chrome DevTools, MySQL Workbench
 * Fundamentals of software testing - Skillup (Jan, 2018)
 
 ## Language skills
-**English** - intermediate
-**Ukrainian** - native
-**Russian** - native
+**English** - intermediate;
+**Ukrainian** - native;
+**Russian** - native;
 
 ## Additional info
 **Hobbies:** traveling, mountain hiking, swimming in a sea, finding of easter eggs in Marvel movies  
