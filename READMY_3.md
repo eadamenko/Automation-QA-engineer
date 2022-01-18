@@ -30,20 +30,6 @@ TMT: TestCaseLab
 DS: Zeplin, Figma  
 Tools: Chrome DevTools, MySQL Workbench
 
-## Experience
-### QA Team lead / Release manager (03.2020 - till now)  
-[**Boxmode**](https://boxmode.com) (website builder):
-
-  * Building QA and development processes;
-  * Building release process;
-  * Release management;
-  * Application releases to production;
-  * KPI, efficiency, mentoring and team mood monitoring;
-  * Manual testing;
-  * UI, visual regression and API test automation;
-  * Creating all kinds of QA documentation and manuals;
-
-
 ## Education
 **Master's degree - National Technical University of Ukraine "Kyiv Polytechnic Institute" (Mar, 2006)**
 * Faculty of Electronics, specialty "Acoustics"
@@ -51,6 +37,64 @@ Tools: Chrome DevTools, MySQL Workbench
 **Courses**
 * Software testing - Infopulse Univer (Jan, 2016)
 * Fundamentals of software testing - Skillup (Jan, 2018)
+
+## Experience
+### QA Engineer (Sep, 2020 - Present)  
+[**Boxmode**](https://boxmode.com) (website builder):
+
+  * testing of technical documentation / requirements
+  * solving of conflicting requirements between units
+  * writing test documentation (test cases \ checklists \ test plans \ bug reports), also test cases \ checklists for automation
+  * manual webUI testing (for compliance with AC \ integration \ sanitary testing \ regression \ Ad Hoc)
+  * issues debug using DevTools
+  * html testing (matching attributes \ nesting \ styles and their inheritance)
+  * writing technical and product tasks due to changing requirements
+  * prod hot fixes delivery
+  * user complaints solving
+  * writing test plan for the team to new epic features / functionality testing
+
+### Content analyzer\assistant head of Content Department (Feb, 2019 - Present)  
+[**Depositphotos Inc.**](https://depositphotos.com) (photobank with e-commerce):
+
+  * collecting of databases statistics 
+  * various purposes reports forming 
+  * permissions administration 
+  * department employees management
+  * project administration in Confluence
+  * searching for new content suppliers for managers team - analysis of global platforms such as Flickr, 500px, Behance, Creativemarket
+  * interaction with webzilla data centers - downloading large amounts of content, collaboration with world-famous photo studios and content providers
+
+### Project Manager (Dec, 2016 - Feb, 2019)  
+[**Depositphotos Inc. - LightField Productions project**](https://lightfieldstudios.net/) (photostudio):
+
+  * communication with top content sales platforms - Shutterstock, Adobe stock, Istock, etc.
+  * content upload, documents preparation for a business account
+  * collecting of statistics and financial reporting, preparation of tax forms
+  * dispute solving - at the legal level and in case of questions about the quality and relevance of content
+  * training of content managers to fill in files according to the latest trends in order to optimize the search results for platforms resales
+  * organization of  work process, employees performance control
+
+### Content Department Supervisor (May, 2012 - Dec, 2016)  
+[**Depositphotos Inc.**](https://depositphotos.com) (photobank with e-commerce):
+
+  * training of content managers
+  * employees performance control
+  * content metadata filing
+  * verification of content legal documents - ownership, permission to shoot and further use of
+  * creation of criteria for evaluating the work of content managers and analysis of results
+  * collecting of statistics and reporting on the work of content department to management
+  * development of site functionality improvements for the content department and further coordination with the technical team for its implementation
+  * writing of primary tasks for the implementation of new functionality for the content department
+
+### Technical writer / Content Manager (Apr, 2011 - May, 2012)  
+[**SilverCom**] :
+
+  * writing of technical documentation for developers
+  * writing of user guides
+  * editing and updating of the address space of Kyiv, Lviv, Dnipro
+  * analysis of the graph of public transport of Kyiv
+  * editing of Kyiv public transport graph
+
 
 ## Language skills
 **English** - intermediate  
