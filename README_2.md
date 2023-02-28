@@ -1,6 +1,6 @@
 # Automation-QA-engineer
 ### Adamenko Eugene
-Date of birth: 04.08.1988 (33y.o.)  
+Date of birth: 04.08.1988
 Contacts: tel. +38(097)10-10-575  
 E-mail: adamenko.ev@gmail.com  
 Location: Kyiv, Ukraine  
@@ -54,7 +54,7 @@ Location: Kyiv, Ukraine
 
 ### QA Manual/Automation Engineer (50/50) (05.2015 - 08.2017)  
 [**Depositphotos**](https://depositphotos.com/) (photobank with e-commerce):
-  * Improvement, refactoring, and increase of existed coverage for UI and API automation tests;(Java, Selenium)
+  * Improvement, refactoring, and increase of existed coverage for UI and API automation tests; (Java, Selenium)
   * Functional, regression, exploratory manual testing of web applications;
   * Work with the test documentation;
 
