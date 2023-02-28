@@ -7,9 +7,9 @@ Location: Kyiv, Ukraine
 
 ## Summary
 ### Professional skills: 
-* Web UI, Mobile UI and REST API automation using: 
-  * Java (Selenium, Selenide, Appium, TestNG, REST Assured);
-  * JavaScript (Protractor, Mocha, Cypress, Jest);
+* Web UI, Mobile UI and REST/GraphQL API automation using: 
+  * Java (Selenium, Selenide, Appium, TestNG, REST Assured); (~6 years total)
+  * JavaScript (Protractor, Mocha, Cypress, Jest); (~2 years total)
 * AQA CI integration: 
   * AWS VM, Docker, Selenoid, Browserstack, Sauce Labs, Jenkins, Allure;
 * Manual testing of mobile and web applications:
