@@ -13,7 +13,7 @@ Location: Kyiv, Ukraine
 * AQA CI integration: 
   * AWS VM, Docker, Selenoid, Browserstack, Sauce Labs, Jenkins, Allure;
 * Manual testing of mobile and web applications:
-  * Web UI, mobile UI, API, Docs, analitics, cookies, xss vulnerabilities, dig DNS, debug with DevTools, Charles, ADB and Xcode.
+  * Web UI, mobile UI, REST/GraphQL API, Docs, analitics, cookies, xss vulnerabilities, dig DNS, debug with DevTools, Charles, ADB and Xcode.
 * Worked with:
   * CI: Jenkins, TeamCity;  BTS: Jira;  VCS: Git;  Tools: Postman, Charles;
 * Creating technical and test documentation: project wiki, tasks based on user stories, test cases, test plans, check lists, bug reports, traceability matrices;
