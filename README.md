@@ -11,7 +11,7 @@ Location: Kyiv, Ukraine
   * Java (Selenium, Selenide, Appium, TestNG, REST Assured);
   * JavaScript (Protractor, Mocha, Cypress, Jest);
 * AQA CI integration: 
-  * AWS VM, Docker, Selenoid, Browserstack, Sauce Labs, Jenkins, Allure
+  * AWS VM, Docker, Selenoid, Browserstack, Sauce Labs, Jenkins, Allure;
 * Manual testing of mobile and web applications:
   * Web UI, mobile UI, API, Docs, analitics, cookies, xss vulnerabilities, dig DNS, debug with DevTools, Charles, ADB and Xcode.
 * Worked with:
