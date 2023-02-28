@@ -63,10 +63,9 @@ Location: Kyiv, Ukraine
 * Faculty of Journalistics Publishing and Editing, specialist.
 
 ## Language skills
-**English** - intermediate;  
-**Ukrainian** - native;  
-**Russian** - native;  
+**English** - intermediate;
+**Ukrainian** - native;
 
 ## Additional info
-**Hobbies:** snowboarding, wakeboarding, buggy construction, pitbike racing, practical shooting;  
+**Hobbies:** snowboarding, wakeboarding, buggy construction, enduro racing, robots construction;  
 **Personal Qualities:** initiative, team-player, ability to work under pressure, willing to learn and grow, analytic mind, responsible, leadership skills, communicative;
