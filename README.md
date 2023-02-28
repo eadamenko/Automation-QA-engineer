@@ -18,44 +18,54 @@ Location: Kyiv, Ukraine
 * Worked as a member of the Agile SCRUM team;
 
 ## Experience in chronological order
-### QA Team lead / Release manager (03.2020 - till now)  
-[**Boxmode**](https://boxmode.com) (website builder):
+### Senior/Lead Automation QA (01.2022 - 02.23)  
+[**Windmill**](https://www.windmill.digital/) (communication platform / sitebuilder / fintech / HRM):
+  * AQA processes engineering;
+  * Automation framework setup and CI integration; (Java, Selenide, Restassured)
+  * UI and API test automation, daily test support;
+  * Team mentoring;
+  * Creating noob guides to AQA;
 
+### QA Team lead / Release manager (03.2020 - 01.22)  
+[**Boxmode**](https://boxmode.com) (website builder):
   * Building QA and development processes;
   * Building release process;
   * Release management;
   * Application releases to production;
   * KPI, efficiency, mentoring and team mood monitoring;
   * Manual testing;
-  * UI, visual regression and API test automation;
+  * UI, visual regression and API test automation; (Java, Selenide, Restassured / JS, Cypress)
   * Creating all kinds of QA documentation and manuals;
 
-### QA Automation Engineer (08.2017 - 03.2020)  
-[**Intellectsoft**](https://www.intellectsoft.net/) (cryptocurrency market / blockchain / e-commerce / mobile commerce / booking):
+### QA Automation Engineer (08.2017 - 03.2020)
+[**Intellectsoft**](https://www.intellectsoft.net/) (cryptocurrency market / blockchain / e-commerce / mobile commerce):
 
-  * Setting up a test automation projects for a web / mobile applications from scratch;(JAVA, JS)
-  * Improvement, refactoring, and increase of existed test coverage for UI and API automation tests;
+**09.2018-01.2020** (e-commerce / mobile commerce project):
+  * Setting up core test automation framework for multiple web and mobile applications from scratch; (Java, Selenium, Appium)
+  * Increasing, support, improvement and refactoring of test coverage for UI and API automation tests for smoke and regression suites for web application;
+  * Implementation of test documentation and test automation processes in SDLC
+
+**08.2017-09.2018** (cryptocurrency market / blockchain / e-commerce project):
+  * Setting up a test automation framework for web applications from scratch; (Java, Restassured / JS, Protractor)
+  * Increasing, support, improvement and refactoring of test coverage for UI and API automation tests for smoke and regression suites for web application;
   * Functional, non-functional, smoke, regression, exploratory manual testing of web and mobile applications;
   * Work with the test documentation;
   * Presentations of product demo versions for the customer;
 
 ### QA Manual/Automation Engineer (50/50) (05.2015 - 08.2017)  
 [**Depositphotos**](https://depositphotos.com/) (photobank with e-commerce):
-
-  * Improvement, refactoring, and increase of existed coverage for UI and API automation tests;(JAVA)
+  * Improvement, refactoring, and increase of existed coverage for UI and API automation tests; (Java, Selenium)
   * Functional, regression, exploratory manual testing of web applications;
   * Work with the test documentation;
 
 ## Education
 **Open International University «Ukraine» (Kyiv, End Date 2008)**
-
 * Faculty of Journalistics Publishing and Editing, specialist.
 
 ## Language skills
-**English** - intermediate;  
-**Ukrainian** - native;  
-**Russian** - native;  
+**English** - intermediate;
+**Ukrainian** - native;
 
 ## Additional info
-**Hobbies:** snowboarding, wakeboarding, buggy construction, pitbike racing, practical shooting;  
-**Personal Qualities:** initiative, responsible, team-player, ability to work under pressure, analytic, leadership skills, communicative;
+**Hobbies:** snowboarding, wakeboarding, buggy construction, enduro racing, robots construction;  
+**Personal Qualities:** initiative, team-player, ability to work under pressure, willing to learn and grow, analytic mind, responsible, leadership skills, communicative;
