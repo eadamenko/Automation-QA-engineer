@@ -65,7 +65,7 @@ Location: Kyiv, Ukraine
 * Faculty of Journalistics Publishing and Editing, specialist.
 
 ## Language skills
-**English** - intermediate;
+**English** - upper-intermediate;
 **Ukrainian** - native;
 
 ## Additional info
