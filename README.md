@@ -10,16 +10,27 @@ Location: Kyiv, Ukraine
 * Web UI, Mobile UI and REST/GraphQL API automation using: 
   * Java (Selenium, Selenide, Appium, TestNG, REST Assured); (~6 years total)
   * JavaScript (Protractor, Mocha, Cypress, Jest); (~2 years total)
+  * Python (PlayWright, Pytest, Locust) (5 month total)
 * AQA CI integration: 
-  * AWS VM, Docker, Selenoid, Browserstack, Sauce Labs, Jenkins, Allure;
+  * AWS VM, Docker, Selenoid, Browserstack, Sauce Labs, Jenkins, Gitlab, Allure;
 * Manual testing of mobile and web applications:
-  * Web UI, mobile UI, REST/GraphQL API, Docs, analitics, cookies, xss vulnerabilities, dig DNS, debug with DevTools, Charles, ADB and Xcode.
+  * Web UI, mobile UI, REST/GraphQL API, Redis, Docs, analitics, cookies, xss vulnerabilities, dig DNS, debug with DevTools, Charles, ADB and Xcode.
 * Worked with:
-  * CI: Jenkins, TeamCity;  BTS: Jira;  VCS: Git;  Tools: Postman, Charles;
+  * CI: Jenkins, Gitlab, TeamCity;  BTS: Jira;  VCS: Git;  Tools: Postman, Charles;
 * Creating technical and test documentation: project wiki, tasks based on user stories, test cases, test plans, check lists, bug reports, traceability matrices;
 * Worked as a member of the Agile SCRUM team;
 
 ## Experience in chronological order
+### General QA Lead/QA manager (05.2023 - Present)  
+[**SoftConstruct**](https://www.softconstruct.com/) (betting / machine learning / OCR / chatbots):
+  * Definition and establishing of test strategy
+  * QA management
+  * QA analysis
+  * QA solutions POC implementation
+  * Automation framework setup and CI integration; (Python, Plawright, Pytest)
+  * UI and API test automation, daily test support;
+  * Team mentoring;
+    
 ### Senior/Lead Automation QA (01.2022 - 02.23)  
 [**Windmill**](https://www.windmill.digital/) (communication platform / sitebuilder / fintech / HRM):
   * AQA processes engineering;
