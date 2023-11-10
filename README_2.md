@@ -20,6 +20,16 @@ Location: Kyiv, Ukraine
 * Worked as a member of the Agile SCRUM team;
 
 ## Experience in chronological order
+### General QA Lead/QA manager (05.2023 - Present)  
+[**SoftConstruct**](https://www.softconstruct.com/) (betting / machine learning / OCR / chatbots):
+  * Definition and establishing of test strategy
+  * QA management
+  * QA analysis
+  * QA solutions POC implementation
+  * Automation framework setup and CI integration; (Python, Plawright, Pytest)
+  * UI and API test automation, daily test support;
+  * Team mentoring;
+
 ### Senior/Lead Automation QA (01.2022 - 02.23)  
 [**Windmill**](https://www.windmill.digital/) (communication platform / sitebuilder / fintech / HRM):
   * AQA processes engineering;
