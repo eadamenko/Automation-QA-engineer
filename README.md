@@ -1,6 +1,6 @@
 # Automation-QA-engineer
 ### Adamenko Eugene <Image src="photo1.jpg" align="right" width="200" height="200">
-Date of birth: 04.08.1988 (33y.o.)  
+Date of birth: 04.08.1988 
 Contacts: tel. +38(097)10-10-575  
 E-mail: adamenko.ev@gmail.com  
 Location: Kyiv, Ukraine  
